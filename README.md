@@ -1,5 +1,6 @@
 # Tip Calculator Application for iOS
 Sunmitted by : **Anitya Gupta**
+
 Time spent: **7** hours spent in total
 
 ## User Stories
