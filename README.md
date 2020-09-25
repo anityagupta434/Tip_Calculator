@@ -9,9 +9,9 @@ The following **required** functionality is complete:
 * [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 ## Video Walkthrough
-Here's a walkthrough of implemented user stories:
-<https://media.giphy.com/media/tKNrh6qx9BRpPxpOkL/giphy.gif>
-GIF created with [Giphy](http://www.giphy.com).
+Here's a walkthrough of implemented user stories: <https://media.giphy.com/media/tKNrh6qx9BRpPxpOkL/giphy.gif>
+
+GIF created with [Giphy](http://www.giphy.com/).
 
 ## Notes 
 * Learning about the different modules and different aspects of the Swift.
